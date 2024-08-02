@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: yellow;
+  background-color: lightblue;
   display: flex;
   padding-top: 10%;
   align-content: center;
@@ -26,6 +26,7 @@ body {
   font-size: 1.2em;
   margin-bottom: 30px;
   text-align: center;
+  color: navy;
 }
 
 .options {
